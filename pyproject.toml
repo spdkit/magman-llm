@@ -1,0 +1,61 @@
+[project]
+name = "magman-llm"
+version = "0.1.0"
+description = "LLM-based VASP convergence prediction system for computational materials science"
+authors = [
+    { name = "Wenping Guo", email = "ybyygu@gmail.com" }
+]
+dependencies = [
+    "pip>=25.2",
+    "pandas>=2.3.2",
+    "zhipuai>=2.1.5.20250801",
+    "scikit-learn>=1.7.1",
+    "httpx>=0.28.1",
+    "openapi>=2.0.0",
+    "matplotlib>=3.10.5",
+    "seaborn>=0.13.2",
+    "openai>=1.101.0",
+    "litellm>=1.75.9",
+]
+readme = "README.md"
+requires-python = ">= 3.11"
+license = "GPL-3.0-or-later"
+keywords = [
+    "vasp",
+    "convergence-prediction",
+    "llm",
+    "materials-science",
+    "computational-chemistry",
+    "machine-learning",
+    "roc-analysis"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Chemistry",
+    "Topic :: Scientific/Engineering :: Physics",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[project.urls]
+Homepage = "https://github.com/spdkit/magman-llm"
+Repository = "https://github.com/spdkit/magman-llm"
+Issues = "https://github.com/spdkit/magman-llm/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/magman_llm"]

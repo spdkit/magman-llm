@@ -1,0 +1,5 @@
+﻿Model,Accuracy,Precision,Recall,F1-Score,AUC,AP,Specificity,Balanced_Accuracy,Samples
+Zero-shot Prompt,0.7400,0.7273,0.9697,0.8312,0.6747,0.7583,0.2941,0.6319,50
+Few-shot 1 Prompt,0.7200,1.0000,0.5758,0.7308,0.8128,0.8674,1.0000,0.7879,50
+Few-shot 2 Prompt,0.8000,0.7949,0.9394,0.8611,0.9091,0.9333,0.5294,0.7344,50
+Few-shot 3 Prompt,0.7200,0.7111,0.9697,0.8205,0.9082,0.9324,0.2353,0.6025,50

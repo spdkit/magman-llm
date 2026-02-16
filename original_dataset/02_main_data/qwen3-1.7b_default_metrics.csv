@@ -1,0 +1,2 @@
+﻿total_samples,successful_samples,success_rate,accuracy,precision,recall,f1_score,true_negatives,false_positives,false_negatives,true_positives,avg_api_time,min_api_time,max_api_time,auc,model,provider,n_steps,timestamp
+50,50,1.0,0.34,0.0,0.0,0.0,17,0,33,0,2.476817922592163,1.389354944229126,4.634592294692993,0.5,dashscope/qwen3-1.7b,litellm,50,2025-10-21 20:45:48

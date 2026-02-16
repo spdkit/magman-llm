@@ -1,0 +1,54 @@
+选择 50 个样本进行测试
+开始评测 50 个样本，步数: 50
+#     Status Sample                                   Prediction   Truth        Steps Confidence Time(s)
+---------------------------------------------------------------------------------------------
+    1 PASS 101001010001001101100100/OSZICAR         Converge     Converge       172          8   4.06
+    2 PASS 111110000100010000011110/OSZICAR         Converge     Converge       116          8   4.08
+    3 PASS 100100001110011011011111/OSZICAR         Converge     Converge        67          8   3.88
+    4 PASS 111010110111111111000001/OSZICAR         Converge     Converge        55          8   3.60
+    5 FAIL 101101000101010011100011/OSZICAR         Converge     Diverge        200          7   3.51
+    6 PASS 111101100101011011110110/OSZICAR         Converge     Converge        62          8   4.16
+    7 PASS 100010010010001011110101/OSZICAR         Converge     Converge        55          8   3.38
+    8 PASS 110110100000011000100100/OSZICAR         Converge     Converge       105          8   6.77
+    9 PASS 110001111011001111111001/OSZICAR         Converge     Converge       106          8   2.87
+   10 PASS 100010101000001110011111/OSZICAR         Converge     Converge        64          8   6.21
+   11 FAIL 110000011100111100000000/OSZICAR         Converge     Diverge        200          7   2.74
+   12 PASS 101011010101110010111110/OSZICAR         Converge     Converge        68          8   2.74
+   13 FAIL 101110111010110011001111/OSZICAR         Converge     Diverge        200          8   3.36
+   14 PASS 101100000000101101100000/OSZICAR         Converge     Converge        57          8   4.29
+   15 PASS 101101010101101011001000/OSZICAR         Converge     Converge        80          7   3.02
+   16 FAIL 101111010100110000100100/OSZICAR         Converge     Diverge        200          7   5.02
+   17 PASS 111111011101110001001010/OSZICAR         Converge     Converge       118          7   3.25
+   18 FAIL 111100110011000100101100/OSZICAR         Converge     Diverge        200          7   3.04
+   19 PASS 111101001101110110100010/OSZICAR         Converge     Converge        63          8   3.44
+   20 FAIL 111110000101010000100000/OSZICAR         Converge     Diverge        200          8   3.28
+   21 PASS 101000010100011110000010/OSZICAR         Converge     Converge       139          8   2.85
+   22 PASS 101110000000110110100000/OSZICAR         Converge     Converge        86          8   3.82
+   23 PASS 111000011100111110100100/OSZICAR         Converge     Converge       146          7   3.24
+   24 FAIL 100100110010001101011001/OSZICAR         Converge     Diverge        200          7   3.13
+   25 FAIL 100001111010000001010101/OSZICAR         Converge     Diverge        200          8   2.77
+   26 PASS 111110000100111110100000/OSZICAR         Converge     Converge        71          7   3.14
+   27 FAIL 100001010111110011101110/OSZICAR         Converge     Diverge        200          7   4.69
+   28 PASS 100000010110101010101001/OSZICAR         Converge     Converge        81          8   5.67
+   29 PASS 101101001111110011100001/OSZICAR         Converge     Converge        66          8   3.91
+   30 PASS 111100010101111011110101/OSZICAR         Diverge      Diverge        200          7   2.56
+   31 PASS 101101010101111111101100/OSZICAR         Converge     Converge        82          8   3.81
+   32 PASS 100011101110110010111111/OSZICAR         Converge     Converge        68          8   2.92
+   33 PASS 101111000100111110100000/OSZICAR         Converge     Converge        79          8   4.82
+   34 FAIL 101011010100110010100100/OSZICAR         Converge     Diverge        200          7   3.36
+   35 FAIL 110100001110001101011001/OSZICAR         Converge     Diverge        200          7   2.75
+   36 FAIL 100100111111011001010111/OSZICAR         Converge     Diverge        200          7   3.26
+   37 FAIL 100001011101111010001100/OSZICAR         Converge     Diverge        200          8   4.60
+   38 PASS 101110010100111011000100/OSZICAR         Converge     Converge       122          7   3.92
+   39 PASS 110100001101111100101000/OSZICAR         Converge     Converge       110          8   3.39
+   40 PASS 101110000000011100100000/OSZICAR         Converge     Converge        64          8   3.46
+   41 PASS 111100000100111110100000/OSZICAR         Converge     Converge        67          8   3.34
+   42 PASS 111000010000110111111010/OSZICAR         Converge     Converge        95          8   4.06
+   43 PASS 101101000101011110111100/OSZICAR         Converge     Converge        72          8   4.86
+   44 PASS 111100000101111100101000/OSZICAR         Diverge      Diverge        200          7   3.51
+   45 PASS 100001110010011010011111/OSZICAR         Converge     Converge        69          8   3.28
+   46 PASS 100001110000110000100010/OSZICAR         Converge     Converge        50          8   5.88
+   47 PASS 110101101100111101010011/OSZICAR         Converge     Converge       140          8   3.70
+   48 PASS 101001110010000111111111/OSZICAR         Converge     Converge       114          7   4.30
+   49 FAIL 101011010111111010100100/OSZICAR         Converge     Diverge        200          7   4.34
+   50 FAIL 111110000101110010010000/OSZICAR         Converge     Diverge        200          8   3.17

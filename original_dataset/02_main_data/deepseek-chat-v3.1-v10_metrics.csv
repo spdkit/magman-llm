@@ -1,0 +1,2 @@
+﻿total_samples,successful_samples,success_rate,accuracy,precision,recall,f1_score,true_negatives,false_positives,false_negatives,true_positives,avg_api_time,min_api_time,max_api_time,model,provider,n_steps,timestamp
+50,50,1.0,0.78,0.775,0.9393939393939394,0.8493150684931506,8,9,2,31,6.1579113817214965,2.3835196495056152,22.74248456954956,deepseek/deepseek-chat-v3.1,openrouter,50,2025-10-28 17:58:20

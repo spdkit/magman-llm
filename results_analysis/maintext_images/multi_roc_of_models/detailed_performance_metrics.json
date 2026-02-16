@@ -1,0 +1,134 @@
+{
+  "summary": [
+    {
+      "Model": "gpt-5-nano",
+      "Accuracy": "0.6600",
+      "Precision": "0.6600",
+      "Recall": "1.0000",
+      "F1-Score": "0.7952",
+      "AUC": "0.5321",
+      "AP": "0.6800",
+      "Specificity": "0.0000",
+      "Balanced_Accuracy": "0.5000",
+      "Samples": 50
+    },
+    {
+      "Model": "qwen3-14b",
+      "Accuracy": "0.7600",
+      "Precision": "0.7500",
+      "Recall": "0.7500",
+      "F1-Score": "0.7500",
+      "AUC": "0.8269",
+      "AP": "0.8047",
+      "Specificity": "0.7692",
+      "Balanced_Accuracy": "0.7596",
+      "Samples": 50
+    },
+    {
+      "Model": "deepseek-v3.2-exp",
+      "Accuracy": "0.8000",
+      "Precision": "0.7949",
+      "Recall": "0.9394",
+      "F1-Score": "0.8611",
+      "AUC": "0.9091",
+      "AP": "0.9333",
+      "Specificity": "0.5294",
+      "Balanced_Accuracy": "0.7344",
+      "Samples": 50
+    },
+    {
+      "Model": "gpt-4o-mini",
+      "Accuracy": "0.8200",
+      "Precision": "0.8333",
+      "Recall": "0.9091",
+      "F1-Score": "0.8696",
+      "AUC": "0.8681",
+      "AP": "0.8991",
+      "Specificity": "0.6471",
+      "Balanced_Accuracy": "0.7781",
+      "Samples": 50
+    },
+    {
+      "Model": "gpt-oss-120b",
+      "Accuracy": "0.7600",
+      "Precision": "0.7442",
+      "Recall": "0.9697",
+      "F1-Score": "0.8421",
+      "AUC": "0.8922",
+      "AP": "0.9147",
+      "Specificity": "0.3529",
+      "Balanced_Accuracy": "0.6613",
+      "Samples": 50
+    },
+    {
+      "Model": "mistral-small-3.2-24b-instruct",
+      "Accuracy": "0.7800",
+      "Precision": "0.7619",
+      "Recall": "0.9697",
+      "F1-Score": "0.8533",
+      "AUC": "0.8387",
+      "AP": "0.8690",
+      "Specificity": "0.4118",
+      "Balanced_Accuracy": "0.6907",
+      "Samples": 50
+    },
+    {
+      "Model": "llama-4-scout",
+      "Accuracy": "0.7800",
+      "Precision": "0.7500",
+      "Recall": "1.0000",
+      "F1-Score": "0.8571",
+      "AUC": "0.8752",
+      "AP": "0.8954",
+      "Specificity": "0.3529",
+      "Balanced_Accuracy": "0.6765",
+      "Samples": 50
+    },
+    {
+      "Model": "gemini-2.5-flash-lite",
+      "Accuracy": "0.8000",
+      "Precision": "0.8108",
+      "Recall": "0.9091",
+      "F1-Score": "0.8571",
+      "AUC": "0.8360",
+      "AP": "0.8821",
+      "Specificity": "0.5882",
+      "Balanced_Accuracy": "0.7487",
+      "Samples": 50
+    },
+    {
+      "Model": "grok-4-fast",
+      "Accuracy": "0.7000",
+      "Precision": "0.6957",
+      "Recall": "0.9697",
+      "F1-Score": "0.8101",
+      "AUC": "0.8788",
+      "AP": "0.9104",
+      "Specificity": "0.1765",
+      "Balanced_Accuracy": "0.5731",
+      "Samples": 50
+    }
+  ],
+  "ap_scores": {
+    "gpt-5-nano": 0.6799999999999999,
+    "qwen3-14b": 0.8047429078014183,
+    "deepseek-v3.2-exp": 0.9333124632663801,
+    "gpt-4o-mini": 0.8991491913569836,
+    "gpt-oss-120b": 0.9146622642115749,
+    "mistral-small-3.2-24b-instruct": 0.869004329004329,
+    "llama-4-scout": 0.8954354719500274,
+    "gemini-2.5-flash-lite": 0.8820611879822406,
+    "grok-4-fast": 0.9103913282484711
+  },
+  "auc_scores": {
+    "gpt-5-nano": 0.5320855614973261,
+    "qwen3-14b": 0.8269230769230769,
+    "deepseek-v3.2-exp": 0.9090909090909091,
+    "gpt-4o-mini": 0.8680926916221033,
+    "gpt-oss-120b": 0.892156862745098,
+    "mistral-small-3.2-24b-instruct": 0.838680926916221,
+    "llama-4-scout": 0.875222816399287,
+    "gemini-2.5-flash-lite": 0.8360071301247771,
+    "grok-4-fast": 0.8787878787878789
+  }
+}

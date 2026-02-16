@@ -1,0 +1,2 @@
+﻿total_samples,successful_samples,success_rate,accuracy,precision,recall,f1_score,true_negatives,false_positives,false_negatives,true_positives,avg_api_time,min_api_time,max_api_time,model,provider,n_steps,timestamp
+50,41,0.82,0.6829268292682927,0.696969696969697,0.8846153846153846,0.7796610169491526,5,10,3,23,98.43800216767846,15.472272872924805,236.35017919540405,glm-4.6,zhipuai,50,2025-10-23 19:08:56

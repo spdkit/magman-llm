@@ -1,0 +1,57 @@
+﻿filepath,true_label,n_steps,prediction,reasoning,roc_probability,success,error,api_time,confidence_score,actual_steps,enough_steps
+vasp-data-files/101101110001000000000110/OSZICAR,0,50,0,"High dE oscillations but rms(c) shows no clear decreasing trend, indicating likely divergence",,True,,24.521788358688354,7,50,True
+vasp-data-files/101101111110111111010001/OSZICAR,0,50,1,"While dE shows oscillations, rms(c) exhibits a clear overall downward trend, indicating convergence according to the expert's tie-breaker rule",,True,,20.89449119567871,7,50,True
+vasp-data-files/101101111111110011010001/OSZICAR,1,50,1,"Despite dE oscillations, rms(c) shows an overall downward trend indicating convergence",,True,,27.983461141586304,6,50,True
+vasp-data-files/101110000001100001100001/OSZICAR,0,50,0,"Although dE oscillates, rms(c) shows no clear downward trend and remains at high values, indicating divergence.
+
+PREDICTION=0 CONFIDENCE=7 REASONING=rms(c) lacks a clear downward trend and remains high, indicating divergence despite dE oscillations.",,True,,24.25894260406494,7,50,True
+vasp-data-files/101110000100001010011000/OSZICAR,1,50,1,Large dE oscillations but macro-trend of rms(c) shows downward damping indicating eventual convergence,,True,,18.194244861602783,6,50,True
+vasp-data-files/101110000100111110100000/OSZICAR,0,50,0,"While dE shows oscillations, the rms(c) does not exhibit a clear downward trend, indicating divergence despite some fluctuations.",,True,,23.14610528945923,7,50,True
+vasp-data-files/101110000101000001101111/OSZICAR,1,50,0,"While initial steps show a decrease in rms(c), the later steps exhibit stagnation and oscillations without a clear downward trend, indicating divergence.",,True,,19.84420371055603,7,50,True
+vasp-data-files/101110000101110011000100/OSZICAR,1,50,0,"While dE shows significant oscillations, the rms(c) values stagnate around 0.22E+01 without a clear downward trend, indicating divergence.",,True,,20.44525647163391,8,50,True
+vasp-data-files/101110001101010111010001/OSZICAR,0,50,0,"rms(c) shows oscillatory behavior without a clear downward trend, indicating likely divergence despite some dE decreases",,True,,19.68487811088562,7,50,True
+vasp-data-files/101110001110011101010011/OSZICAR,0,50,1,Large dE oscillations but macro-trend of rms(c) shows downward damping indicating eventual convergence,,True,,16.222110748291016,6,50,True
+vasp-data-files/101110010100111011000100/OSZICAR,1,50,1,"While dE shows oscillations, the overall trend of rms(c) is decreasing, indicating convergence despite some fluctuations.",,True,,42.03111481666565,6,50,True
+vasp-data-files/101110011001010001000110/OSZICAR,0,50,0,"Large oscillations in dE and rms(c) without a clear downward trend, indicating likely divergence",,True,,23.622220754623413,7,50,True
+vasp-data-files/101110101100010000111110/OSZICAR,0,50,1,"Large dE oscillations but macro-trend of rms(c) shows downward damping indicating eventual convergence
+
+PREDICTION=1 CONFIDENCE=6 REASONING=Although dE shows significant oscillations, the overall trend of rms(c) is decreasing, indicating convergence.",,True,,20.588980197906494,6,50,True
+vasp-data-files/101110111010110011001111/OSZICAR,0,50,1,"While dE shows oscillations, the overall macro-trend of rms(c) indicates a steady decrease, suggesting convergence despite noisy behavior.",,True,,25.927865266799927,7,50,True
+vasp-data-files/101111000001111110100000/OSZICAR,0,50,0,"While dE shows some oscillation, the rms(c) values do not exhibit a clear downward trend and remain relatively high, indicating divergence.",,True,,18.035440921783447,7,50,True
+vasp-data-files/101111000100011100100100/OSZICAR,1,50,1,Large dE oscillations but macro-trend of rms(c) shows overall downward trend indicating convergence,,True,,43.51859784126282,6,50,True
+vasp-data-files/101111000100111010100011/OSZICAR,1,50,0,"dE shows large oscillations and rms(c) fails to show a clear downward trend, indicating divergence",,True,,18.699290990829468,7,50,True
+vasp-data-files/101111000110011100100100/OSZICAR,0,50,0,"rms(c) shows initial decrease but stagnates around 1.0 with no clear downward trend, indicating divergence despite dE oscillations",,True,,22.387843370437622,5,50,True
+vasp-data-files/101111001000100011010111/OSZICAR,1,50,1,"Despite dE oscillations, rms(c) shows a steady downward trend with magnitudes approaching convergence thresholds",,True,,13.524686813354492,7,50,True
+vasp-data-files/101111001011100011100001/OSZICAR,1,50,1,"rms(c) shows a clear overall downward trend despite dE oscillations, indicating convergence",,True,,15.19151782989502,7,50,True
+vasp-data-files/101111001100010010100010/OSZICAR,1,50,1,"Despite dE oscillations, rms(c) shows a slow downward trend indicating convergence",,True,,24.561072826385498,6,50,True
+vasp-data-files/101111001100010011100010/OSZICAR,1,50,1,"Despite dE oscillations, the rms(c) shows a clear overall downward trend from step 15 to 50, indicating convergence.",,True,,14.955581665039062,6,50,True
+vasp-data-files/101111010100110000100100/OSZICAR,0,50,0,"While rms(c) shows some initial decrease, it stagnates and oscillates without a clear downward trend, indicating divergence despite early progress.",,True,,36.16958403587341,7,50,True
+vasp-data-files/101111010101001111101011/OSZICAR,1,50,1,"Large dE oscillations but macro-trend of rms(c) shows downward damping indicating eventual convergence
+
+PREDICTION=1 CONFIDENCE=6 REASONING=Large dE oscillations but macro-trend of rms(c) shows downward damping indicating eventual convergence",,True,,46.1259183883667,6,50,True
+vasp-data-files/101111100000000011101101/OSZICAR,0,50,1,"Despite large dE oscillations, the rms(c) shows an overall decreasing trend, indicating convergence according to the expert's tie-breaker rule.",,True,,16.976160049438477,6,50,True
+vasp-data-files/101111100100111011100011/OSZICAR,1,50,0,"While dE shows some oscillations, the rms(c) values do not exhibit a clear downward trend and remain high, indicating divergence.",,True,,23.39011788368225,7,50,True
+vasp-data-files/101111100101000010111111/OSZICAR,0,50,1,"Overall downward trend in rms(c) despite noisy oscillations and high dE values, indicating likely convergence with moderate confidence",,True,,21.323108196258545,6,50,True
+vasp-data-files/101111100101111000100000/OSZICAR,1,50,1,"Despite significant dE oscillations, the rms(c) shows a clear overall downward trend, indicating convergence according to the expert's tie-breaker rule.",,True,,18.586365938186646,6,50,True
+vasp-data-files/101111100110001111111101/OSZICAR,1,50,0,"dE oscillates without consistent decrease and rms(c) shows no overall downward trend, indicating divergence",,True,,15.84492564201355,9,50,True
+vasp-data-files/101111101101011010111100/OSZICAR,1,50,1,Large dE oscillations but macro-trend of rms(c) shows downward damping indicating eventual convergence,,True,,21.048131465911865,6,50,True
+vasp-data-files/110000000011100101010001/OSZICAR,0,50,1,Large dE oscillations but macro-trend of rms(c) shows downward damping indicating eventual convergence,,True,,24.215267181396484,6,50,True
+vasp-data-files/110000010011000011011001/OSZICAR,0,50,0,Persistent oscillations in dE and lack of clear downward trend in rms(c) after step 13 indicate divergence,,True,,17.767748594284058,7,50,True
+vasp-data-files/110000010110101101010011/OSZICAR,0,50,1,Large dE oscillations but macro-trend of rms(c) shows a slow downward trend indicating eventual convergence,,True,,22.84984278678894,6,50,True
+vasp-data-files/110000011001000011111010/OSZICAR,1,50,1,"Despite dE oscillations, the overall trend of rms(c) shows a gradual decrease, indicating likely convergence with moderate confidence.",,True,,27.709292888641357,6,50,True
+vasp-data-files/110000011100011000001011/OSZICAR,1,50,1,"Despite dE oscillations, the overall trend of rms(c) shows a gradual decrease, indicating convergence.",,True,,19.638296842575073,7,50,True
+vasp-data-files/110000011100111100000000/OSZICAR,0,50,1,"While dE shows significant oscillations, the rms(c) exhibits a downward trend over time, indicating convergence despite the noisy behavior.",,True,,18.88259220123291,6,50,True
+vasp-data-files/110000101000000110101100/OSZICAR,0,50,0,"rms(c) shows no clear downward trend with persistent oscillations, indicating divergence despite some dE decreases",,True,,22.165468215942383,7,50,True
+vasp-data-files/110000101010001110011011/OSZICAR,0,50,1,"The rms(c) shows a downward trend despite oscillations, indicating convergence",,True,,17.756944179534912,7,50,True
+vasp-data-files/110000110001111111010001/OSZICAR,1,50,1,"Despite dE oscillations, rms(c) shows a clear overall downward trend, indicating convergence.",,True,,21.131266117095947,8,50,True
+vasp-data-files/110000111011001111011011/OSZICAR,0,50,0,"While rms(c) shows some initial decrease, it stagnates and oscillates without a clear downward trend, indicating divergence despite dE oscillations.",,True,,19.17146325111389,7,50,True
+vasp-data-files/110000111110100001010011/OSZICAR,0,50,0,"While dE shows oscillations, the rms(c) values do not exhibit a consistent downward trend, indicating divergence.",,True,,18.749147653579712,7,50,True
+vasp-data-files/110001000011001111101110/OSZICAR,0,50,1,"While dE shows significant oscillations, the rms(c) exhibits a clear overall downward trend, indicating convergence despite the noisy dE behavior.",,True,,15.85603952407837,6,50,True
+vasp-data-files/110001001100001101110101/OSZICAR,0,50,1,Large dE oscillations but macro-trend of rms(c) shows slow downward damping indicating likely convergence,,True,,15.45936131477356,6,50,True
+vasp-data-files/110001010101000001010111/OSZICAR,1,50,1,Large dE oscillations but macro-trend of rms(c) shows downward damping indicating eventual convergence,,True,,19.4307541847229,6,50,True
+vasp-data-files/110001011011111101111011/OSZICAR,1,50,1,"While dE shows significant oscillations, the rms(c) exhibits a overall downward trend despite noise, indicating convergence.",,True,,22.47431182861328,6,50,True
+vasp-data-files/110001101111010110111011/OSZICAR,1,50,1,"While dE shows significant oscillations, the rms(c) exhibits a clear overall downward trend, indicating convergence according to the expert tie-breaker rule.",,True,,19.362873792648315,7,50,True
+vasp-data-files/110001110110000110011100/OSZICAR,0,50,1,"While dE shows oscillations, the overall trend of rms(c) indicates a slow but downward damping, suggesting eventual convergence despite noise.",,True,,25.404045343399048,6,50,True
+vasp-data-files/110001111011001111111001/OSZICAR,1,50,1,"Despite dE oscillations, the rms(c) shows a clear overall downward trend, indicating convergence.",,True,,27.178431272506714,6,50,True
+vasp-data-files/110001111110110011011111/OSZICAR,0,50,0,"Initial decrease in rms(c) but later steps show stagnation and oscillations without a clear downward trend, indicating divergence.",,True,,34.2638041973114,6,50,True
+vasp-data-files/110010001001100111111001/OSZICAR,1,50,1,"Early dE oscillations but rms(c) shows a consistent downward trend despite noise, indicating convergence",,True,,19.022287130355835,7,50,True

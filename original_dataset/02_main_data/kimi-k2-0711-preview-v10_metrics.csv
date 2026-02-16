@@ -1,0 +1,2 @@
+﻿total_samples,successful_samples,success_rate,accuracy,precision,recall,f1_score,true_negatives,false_positives,false_negatives,true_positives,avg_api_time,min_api_time,max_api_time,auc,model,provider,n_steps,timestamp
+50,50,1.0,0.74,0.7272727272727273,0.9696969696969697,0.8311688311688312,5,12,1,32,4.4607221794128415,3.333691358566284,8.716225624084473,0.8529411764705883,moonshot/kimi-k2-0711-preview,litellm,50,2025-09-17 19:25:53

@@ -1,0 +1,63 @@
+{
+  "data_info": {
+    "total_original_samples": 896,
+    "analyzed_samples": 864,
+    "success_rate": 0.9642857142857143,
+    "models": [
+      "single_model"
+    ]
+  },
+  "model_results": {
+    "single_model": {
+      "accuracy": 0.8680555555555556,
+      "precision": 0.904833836858006,
+      "recall": 0.9215384615384615,
+      "f1_score": 0.913109756097561,
+      "specificity": 0.705607476635514,
+      "balanced_accuracy": 0.8135729690869877,
+      "confusion_matrix": [
+        [
+          151,
+          63
+        ],
+        [
+          51,
+          599
+        ]
+      ],
+      "true_negatives": 151,
+      "false_positives": 63,
+      "false_negatives": 51,
+      "true_positives": 599,
+      "auc": 0.8431560028756291,
+      "total_samples": 864,
+      "step_saving": {
+        "overall": {
+          "total_samples": 864,
+          "total_original_steps": 105138,
+          "total_predicted_steps": 48975,
+          "total_steps_saved": 56163,
+          "saving_ratio": 53.42,
+          "avg_saving_ratio": 45.35,
+          "avg_steps_saved": 65.0
+        },
+        "by_true_label": {
+          "convergent": {
+            "samples": 650,
+            "total_original_steps": 62338,
+            "total_predicted_steps": 35425,
+            "saving_ratio": 37.78,
+            "avg_steps_saved": 41.4
+          },
+          "non_convergent": {
+            "samples": 214,
+            "total_original_steps": 42800,
+            "total_predicted_steps": 13550,
+            "saving_ratio": 68.34,
+            "avg_steps_saved": 136.68
+          }
+        }
+      }
+    }
+  }
+}

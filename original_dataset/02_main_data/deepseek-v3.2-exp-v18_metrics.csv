@@ -1,0 +1,2 @@
+﻿total_samples,successful_samples,success_rate,accuracy,precision,recall,f1_score,true_negatives,false_positives,false_negatives,true_positives,avg_api_time,min_api_time,max_api_time,model,provider,n_steps,timestamp
+50,50,1.0,0.76,0.7560975609756098,0.9393939393939394,0.8378378378378378,7,10,2,31,4.5026620054245,3.2753937244415283,9.942415475845337,deepseek-chat,deepseek,50,2025-11-12 16:44:40

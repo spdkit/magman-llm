@@ -1,0 +1,35 @@
+{
+  "data_info": {
+    "total_samples": 50,
+    "models": [
+      "single_model"
+    ],
+    "success_rate": 1.0
+  },
+  "model_results": {
+    "single_model": {
+      "accuracy": 0.7,
+      "precision": 0.6875,
+      "recall": 1.0,
+      "f1_score": 0.8148148148148148,
+      "specificity": 0.11764705882352941,
+      "balanced_accuracy": 0.5588235294117647,
+      "confusion_matrix": [
+        [
+          2,
+          15
+        ],
+        [
+          0,
+          33
+        ]
+      ],
+      "true_negatives": 2,
+      "false_positives": 15,
+      "false_negatives": 0,
+      "true_positives": 33,
+      "auc": 0.7005347593582888,
+      "total_samples": 50
+    }
+  }
+}

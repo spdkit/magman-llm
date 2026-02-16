@@ -1,0 +1,2 @@
+﻿total_samples,successful_samples,success_rate,accuracy,precision,recall,f1_score,true_negatives,false_positives,false_negatives,true_positives,avg_api_time,min_api_time,max_api_time,model,provider,n_steps,timestamp
+50,50,1.0,0.66,0.66,1.0,0.7951807228915663,0,17,0,33,32.83540478229523,18.44223165512085,95.13708114624023,openai/gpt-5-nano,openrouter,50,2025-10-24 11:56:54

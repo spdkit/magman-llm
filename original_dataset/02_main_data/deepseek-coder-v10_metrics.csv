@@ -1,0 +1,2 @@
+﻿total_samples,successful_samples,success_rate,accuracy,precision,recall,f1_score,true_negatives,false_positives,false_negatives,true_positives,avg_api_time,min_api_time,max_api_time,auc,model,provider,n_steps,timestamp
+50,50,1.0,0.8,0.7674418604651163,1.0,0.868421052631579,7,10,0,33,6.401897406578064,5.0306408405303955,11.58325743675232,0.8074866310160428,deepseek/deepseek-coder,litellm,50,2025-09-17 20:00:15

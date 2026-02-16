@@ -1,0 +1,2 @@
+﻿total_samples,successful_samples,success_rate,accuracy,precision,recall,f1_score,true_negatives,false_positives,false_negatives,true_positives,avg_api_time,min_api_time,max_api_time,model,provider,n_steps,timestamp
+50,49,0.98,0.8163265306122449,0.8157894736842105,0.9393939393939394,0.8732394366197183,9,7,2,31,38.75070003587373,11.990714311599731,145.4756088256836,deepseek/deepseek-r1,openrouter,50,2025-10-21 21:08:13

@@ -1,0 +1,2 @@
+﻿total_samples,successful_samples,success_rate,accuracy,precision,recall,f1_score,true_negatives,false_positives,false_negatives,true_positives,avg_api_time,min_api_time,max_api_time,auc,model,provider,n_steps,timestamp
+50,50,1.0,0.7,0.6875,1.0,0.8148148148148148,2,15,0,33,1.3903741884231566,1.0911848545074463,3.3810627460479736,0.7058823529411765,moonshot/moonshot-v1-128k,litellm,50,2025-09-17 18:59:06

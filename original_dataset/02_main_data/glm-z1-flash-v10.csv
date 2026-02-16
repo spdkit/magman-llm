@@ -1,0 +1,61 @@
+﻿filepath,true_label,n_steps,prediction,reasoning,roc_probability,success,error,api_time,confidence_score,actual_steps,enough_steps
+vasp-data-files/101001010001001101100100/OSZICAR,1,50,1,"Macro-trend of rms(c) decreases from 12.5 to 0.25 despite dE oscillations, indicating convergence per Tie-Breaker Rule",,True,,10.116017580032349,7,50,True
+vasp-data-files/111110000100010000011110/OSZICAR,1,50,1,Macro-trend of rms(c) shows downward damping from 1.05E+02 to 0.263E+00 despite dE oscillations,,True,,15.472101211547852,7,50,True
+vasp-data-files/100100001110011011011111/OSZICAR,1,50,1,"Clear downward macro-trend in rms(c) from step 13 to 50 (0.122E+02 to 0.650E-02) despite dE oscillations, per Expert's Tie-Breaker Rule",,True,,7.791286468505859,9,50,True
+vasp-data-files/111010110111111111000001/OSZICAR,1,50,1,"Macro-trend of rms(c) shows consistent downward damping despite dE oscillations, per Expert's Tie-Breaker Rule",,True,,7.1802978515625,6,50,True
+vasp-data-files/101101000101010011100011/OSZICAR,0,50,0,dE remains high (1e-1 to 1e-2) and rms(c) stagnates at ~1.7-1.8E+01 with no downward trend despite oscillations,,True,,22.539504289627075,9,50,True
+vasp-data-files/111101100101011011110110/OSZICAR,1,50,1,"Macro-trend of rms(c) shows clear downward damping from 0.106E+02 (RMM12) to 0.134E-01 (RMM50) despite dE oscillations, per Tie-Breaker Rule",,True,,11.784677028656006,7,50,True
+vasp-data-files/100010010010001011110101/OSZICAR,1,50,1,"Macro-trend of rms(c) shows clear downward damping from 1.2e2 to 1.18e-02 despite dE oscillations, per Expert's Tie-Breaker Rule",,True,,6.725157737731934,8,50,True
+vasp-data-files/110110100000011000100100/OSZICAR,1,50,1,"Clear macro-trend of decreasing rms(c) from 1.65E+02 to 4.74E-01 despite dE oscillations, meeting convergence criteria",,True,,5.8134589195251465,9,50,True
+vasp-data-files/110001111011001111111001/OSZICAR,1,50,1,Large dE oscillations but rms(c) shows clear downward damping trend from 0.124E+02 to 0.460E-01 indicating convergence,,True,,7.708728313446045,6,50,True
+vasp-data-files/100010101000001110011111/OSZICAR,1,50,1,"Macro-trend of rms(c) shows clear downward damping from step 12 to 50 despite dE oscillations, reaching <1e-2 by final step",,True,,12.226637363433838,8,50,True
+vasp-data-files/110000011100111100000000/OSZICAR,0,50,1,"Macro-trend of rms(c) shows overall decrease despite recent oscillations indicating potential convergence.
+</think>
+PREDICTION=1 CONFIDENCE=6 REASONING=Macro-trend of rms(c) shows overall decrease despite recent oscillations indicating potential convergence",,True,,27.07322669029236,6,50,True
+vasp-data-files/101011010101110010111110/OSZICAR,1,50,1,"Macro-trend of rms(c) shows clear downward damping despite dE oscillations, with final rms(c) <1.0E-01",,True,,16.394503831863403,8,50,True
+vasp-data-files/101110111010110011001111/OSZICAR,0,50,1,"Macro-trend of rms(c) shows downward damping from step 15 to 50 despite dE oscillations, per Expert's Tie-Breaker Rule",,True,,18.852627992630005,6,50,True
+vasp-data-files/101100000000101101100000/OSZICAR,1,50,1,"Macro-trend of rms(c) shows clear downward damping from step 12 to 50 despite early dE oscillations, per Expert's Tie-Breaker Rule",,True,,24.384051084518433,7,50,True
+vasp-data-files/101101010101101011001000/OSZICAR,1,50,1,"Macro-trend of rms(c) decreases from 1.35E+01 to 1.61E+00 despite dE oscillations, indicating convergence per Tie-Breaker Rule",,True,,9.327834606170654,6,50,True
+vasp-data-files/101111010100110000100100/OSZICAR,0,50,1,Large dE oscillations but rms(c) shows overall downward damping from step 15 to 50 indicating eventual convergence,,True,,7.794153690338135,6,50,True
+vasp-data-files/111111011101110001001010/OSZICAR,1,50,1,Macro-trend of rms(c) shows downward damping despite dE oscillations,,True,,9.32795524597168,6,50,True
+vasp-data-files/111100110011000100101100/OSZICAR,0,50,1,"Macro-trend of rms(c) decreases from 10.6E+00 (RMM:12) to 0.401E+00 (RMM:50) despite dE oscillations, indicating convergence per tie-breaker rule",,True,,17.932914972305298,6,50,True
+vasp-data-files/111101001101110110100010/OSZICAR,1,50,1,Clear macro-trend of rms(c) decreasing to <1.0E-03 despite dE oscillations,,True,,14.857011318206787,9,50,True
+vasp-data-files/111110000101010000100000/OSZICAR,0,50,1,Macro-trend of rms(c) shows consistent decrease despite dE oscillations,,True,,9.023066997528076,6,50,True
+vasp-data-files/101000010100011110000010/OSZICAR,1,50,1,"Macro-trend of rms(c) shows clear downward damping from 1.85E+00 to 0.786E-01 despite dE oscillations, per Tie-Breaker Rule",,True,,9.943670272827148,6,50,True
+vasp-data-files/101110000000110110100000/OSZICAR,1,50,1,"Large dE oscillations but macro-trend of rms(c) shows clear downward damping from step 14 to 50 indicating eventual convergence.
+</think>
+PREDICTION=1 CONFIDENCE=7 REASONING=Large dE oscillations but macro-trend of rms(c) shows clear downward damping from step 14 to 50 indicating eventual convergence",,True,,31.448198318481445,7,50,True
+vasp-data-files/111000011100111110100100/OSZICAR,1,50,1,Macro-trend of rms(c) shows consistent downward damping from RMM13 to RMM50 despite dE oscillations and minor rms(c) fluctuations,,True,,22.049781322479248,7,50,True
+vasp-data-files/100100110010001101011001/OSZICAR,0,50,1,"Large dE oscillations but macro-trend of rms(c) shows downward damping indicating eventual convergence.
+</think>
+PREDICTION=1 CONFIDENCE=8 REASONING=Large dE oscillations but macro-trend of rms(c) shows downward damping indicating eventual convergence",,True,,5.517606019973755,8,50,True
+vasp-data-files/100001111010000001010101/OSZICAR,0,50,1,"Macro-trend of rms(c) shows clear downward damping from 1.22E+02 to 0.279E-01 despite dE oscillations, per Expert Tie-Breaker Rule",,True,,7.179462432861328,7,50,True
+vasp-data-files/111110000100111110100000/OSZICAR,1,50,1,macro-trend of rms(c) shows clear downward damping despite oscillations in dE,,True,,15.16520357131958,7,50,True
+vasp-data-files/100001010111110011101110/OSZICAR,0,50,1,"Clear downward macro-trend in rms(c) despite dE oscillations and initial spike, reaching below 1.0E-01.
+</think>
+PREDICTION=1 CONFIDENCE=9 REASONING=Clear downward macro-trend in rms(c) from step 13 to 50 despite dE oscillations, final rms(c) <1.0E-01",,True,,13.93678879737854,9,50,True
+vasp-data-files/100000010110101010101001/OSZICAR,1,50,1,"Macro-trend of rms(c) shows consistent decrease from 0.124E+02 (RMM13) to 0.145E-01 (RMM50) despite dE oscillations, per Expert Tie-Breaker Rule",,True,,13.016207695007324,7,50,True
+vasp-data-files/101101001111110011100001/OSZICAR,1,50,1,"Macro-trend of rms(c) shows consistent decrease from 12.3E+00 (step13) to 3.01E-02 (step50), with final values below 1.0E-02 despite dE oscillations",,True,,9.021319150924683,9,50,True
+vasp-data-files/111100010101111011110101/OSZICAR,0,50,0,rms(c) stagnates at ~0.12-0.18E+01 (no downward trend) and dE remains high (~-3.6E+02 to -4.7E+02) indicating divergence,,True,,10.558788061141968,9,50,True
+vasp-data-files/101101010101111111101100/OSZICAR,1,50,1,"Macro-trend of rms(c) shows clear downward damping from 0.127E+02 (RMM13) to 0.112E-01 (RMM50) despite dE oscillations, per Expert's Tie-Breaker Rule",,True,,7.177475452423096,8,50,True
+vasp-data-files/100011101110110010111111/OSZICAR,1,50,1,Large dE oscillations but macro-trend of rms(c) shows clear downward damping indicating eventual convergence,,True,,10.25343132019043,8,50,True
+vasp-data-files/101111000100111110100000/OSZICAR,1,50,1,"Macro-trend of rms(c) shows downward damping from step 15 onward despite oscillations in dE and temporary rms(c) spikes (e.g., step 26), satisfying the tie-breaker rule",,True,,15.477148056030273,6,50,True
+vasp-data-files/101011010100110010100100/OSZICAR,0,50,1,"Macro-trend of rms(c) decreases from 1.23E+02 to 0.811E+00 despite dE oscillations, indicating eventual convergence",,True,,11.780908823013306,6,50,True
+vasp-data-files/110100001110001101011001/OSZICAR,0,50,1,"Macro-trend of rms(c) shows clear downward damping despite dE oscillations, with final rms(c) reaching 6.21E-01",,True,,11.789440870285034,7,50,True
+vasp-data-files/100100111111011001010111/OSZICAR,0,50,1,Large dE oscillations but macro-trend of rms(c) shows downward damping indicating eventual convergence,,True,,25.917660236358643,6,50,True
+vasp-data-files/100001011101111010001100/OSZICAR,0,50,1,"Macro-trend of rms(c) shows clear downward damping despite dE oscillations.
+</think>
+PREDICTION=1 CONFIDENCE=7 REASONING=Macro-trend of rms(c) shows clear downward damping from 10.5 to 0.2 despite late-stage oscillations and dE noise",,True,,23.941150665283203,7,50,True
+vasp-data-files/101110010100111011000100/OSZICAR,1,50,1,"Macro-trend of rms(c) shows clear downward damping from 0.124E+02 (step13) to 0.538E-01 (step50) despite dE oscillations, per Expert's Tie-Breaker Rule",,True,,12.225589513778687,7,50,True
+vasp-data-files/110100001101111100101000/OSZICAR,1,50,1,"Macro-trend of rms(c) shows clear downward damping despite dE oscillations, per Expert Tie-Breaker Rule",,True,,6.2577805519104,6,50,True
+vasp-data-files/101110000000011100100000/OSZICAR,1,50,1,"Macro-trend of rms(c) decreases from 0.121E+02 (RMM13) to 0.293E-02 (RMM50) despite dE oscillations, meeting convergence thresholds",,True,,8.919664144515991,8,50,True
+vasp-data-files/111100000100111110100000/OSZICAR,1,50,1,"Macro-trend of rms(c) decreases from 12.1 to 0.0647 despite initial spike at RMM14, meeting convergence criteria",,True,,14.347770690917969,7,50,True
+vasp-data-files/111000010000110111111010/OSZICAR,1,50,1,"Macro-trend of rms(c) shows clear downward damping below 1e-2 despite dE oscillations, per Expert Tie-Breaker Rule",,True,,10.454047203063965,8,50,True
+vasp-data-files/101101000101011110111100/OSZICAR,1,50,1,"Macro-trend of rms(c) shows clear downward damping from 0.146E+03 to 0.319E-01 despite dE oscillations, per Tie-Breaker Rule",,True,,5.4285666942596436,9,50,True
+vasp-data-files/111100000101111100101000/OSZICAR,0,50,0,dE remains above 1.0E-03 and rms(c) stagnates at 0.1-0.7E-01 with no clear downward trend,,True,,18.632688999176025,9,50,True
+vasp-data-files/100001110010011010011111/OSZICAR,1,50,1,"Macro-trend of rms(c) decreases from 105 to 0.42 despite dE oscillations, indicating convergence per tie-breaker rule",,True,,13.71760630607605,6,50,True
+vasp-data-files/100001110000110000100010/OSZICAR,1,50,1,"Macro-trend of rms(c) shows clear downward damping from 0.105E+02 to 0.143E-02 despite dE oscillations, meeting convergence thresholds",,True,,9.16378402709961,8,50,True
+vasp-data-files/110101101100111101010011/OSZICAR,1,50,1,"Macro-trend of rms(c) decreases from 0.126E+02 to 0.463E-01 despite dE oscillations, per Tie-Breaker Rule",,True,,6.563540935516357,6,50,True
+vasp-data-files/101001110010000111111111/OSZICAR,1,50,1,Large dE oscillations but macro-trend of rms(c) shows downward damping indicating eventual convergence,,True,,6.257498264312744,6,50,True
+vasp-data-files/101011010111111010100100/OSZICAR,0,50,1,"Macro-trend of rms(c) shows consistent downward damping despite dE oscillations, per Expert's Tie-Breaker Rule",,True,,6.948472261428833,6,50,True
+vasp-data-files/111110000101110010010000/OSZICAR,0,50,1,"Macro-trend of rms(c) shows clear downward damping from 12.4E+00 to 0.26E+00 despite dE oscillations, per Tie-Breaker Rule",,True,,15.090950965881348,6,50,True

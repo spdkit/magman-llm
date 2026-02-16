@@ -1,0 +1,51 @@
+﻿filepath,true_label,n_steps,prediction,reasoning,roc_probability,success,error,api_time,confidence_score,actual_steps,enough_steps
+vasp-data-files/101001010001001101100100/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,3.2058725357055664,8,50,True
+vasp-data-files/111110000100010000011110/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.383481502532959,8,50,True
+vasp-data-files/100100001110011011011111/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.701434850692749,8,50,True
+vasp-data-files/111010110111111111000001/OSZICAR,1,50,0,"Clear oscillations in dE with increasing amplitude and stagnant rms(c) values, indicating divergence",,True,,1.243746042251587,8,50,True
+vasp-data-files/101101000101010011100011/OSZICAR,0,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.2393667697906494,8,50,True
+vasp-data-files/111101100101011011110110/OSZICAR,1,50,0,"Clear oscillations in dE with increasing amplitude and stagnant rms(c) values, indicating divergence",,True,,1.344611644744873,8,50,True
+vasp-data-files/100010010010001011110101/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.8515870571136475,8,50,True
+vasp-data-files/110110100000011000100100/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.4199602603912354,8,50,True
+vasp-data-files/110001111011001111111001/OSZICAR,1,50,0,"Clear oscillations in dE with increasing amplitude and stagnant rms(c) values, indicating divergence",,True,,1.1362431049346924,8,50,True
+vasp-data-files/100010101000001110011111/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.4713530540466309,8,50,True
+vasp-data-files/110000011100111100000000/OSZICAR,0,50,0,Clear oscillations in dE with increasing amplitude and stagnant rms(c) values indicating divergence,,True,,1.275341272354126,7,50,True
+vasp-data-files/101011010101110010111110/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.237499713897705,8,50,True
+vasp-data-files/101110111010110011001111/OSZICAR,0,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.1376285552978516,8,50,True
+vasp-data-files/101100000000101101100000/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.7184386253356934,8,50,True
+vasp-data-files/101101010101101011001000/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,2.565014600753784,8,50,True
+vasp-data-files/101111010100110000100100/OSZICAR,0,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,3.2896530628204346,8,50,True
+vasp-data-files/111111011101110001001010/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.4463343620300293,8,50,True
+vasp-data-files/111100110011000100101100/OSZICAR,0,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.647170066833496,8,50,True
+vasp-data-files/111101001101110110100010/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.3441228866577148,8,50,True
+vasp-data-files/111110000101010000100000/OSZICAR,0,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.134291410446167,8,50,True
+vasp-data-files/101000010100011110000010/OSZICAR,1,50,0,"Clear oscillations in dE with increasing amplitude and stagnant rms(c) values, indicating divergence",,True,,1.4405467510223389,8,50,True
+vasp-data-files/101110000000110110100000/OSZICAR,1,50,0,Clear oscillations in dE with increasing amplitude and stagnant rms(c) values indicating divergence,,True,,1.3437621593475342,8,50,True
+vasp-data-files/111000011100111110100100/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.4457371234893799,8,50,True
+vasp-data-files/100100110010001101011001/OSZICAR,0,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.343141794204712,8,50,True
+vasp-data-files/100001111010000001010101/OSZICAR,0,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,4.107242584228516,8,50,True
+vasp-data-files/111110000100111110100000/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,4.20964241027832,8,50,True
+vasp-data-files/100001010111110011101110/OSZICAR,0,50,0,"Clear oscillations in dE with increasing amplitude and stagnant rms(c) values, indicating divergence",,True,,1.1338391304016113,8,50,True
+vasp-data-files/100000010110101010101001/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.2689647674560547,8,50,True
+vasp-data-files/101101001111110011100001/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,2.645718574523926,8,50,True
+vasp-data-files/111100010101111011110101/OSZICAR,0,50,0,Clear oscillations in dE with increasing amplitude and stagnant rms(c) values indicating divergence,,True,,1.341547966003418,8,50,True
+vasp-data-files/101101010101111111101100/OSZICAR,1,50,0,"Clear oscillations in dE with increasing amplitude and stagnant rms(c) values, indicating divergence",,True,,1.5461816787719727,8,50,True
+vasp-data-files/100011101110110010111111/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.2968366146087646,8,50,True
+vasp-data-files/101111000100111110100000/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,2.912602186203003,8,50,True
+vasp-data-files/101011010100110010100100/OSZICAR,0,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,3.8080966472625732,8,50,True
+vasp-data-files/110100001110001101011001/OSZICAR,0,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.6484718322753906,8,50,True
+vasp-data-files/100100111111011001010111/OSZICAR,0,50,0,Clear oscillations in dE with increasing amplitude and stagnant rms(c) values indicating divergence,,True,,1.3908390998840332,8,50,True
+vasp-data-files/100001011101111010001100/OSZICAR,0,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.910285472869873,8,50,True
+vasp-data-files/101110010100111011000100/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.6475322246551514,8,50,True
+vasp-data-files/110100001101111100101000/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,2.966708183288574,8,50,True
+vasp-data-files/101110000000011100100000/OSZICAR,1,50,0,"Clear oscillations in dE with increasing amplitude and stagnant rms(c) values, indicating divergence",,True,,1.148815631866455,8,50,True
+vasp-data-files/111100000100111110100000/OSZICAR,1,50,0,"Clear oscillations in dE with increasing amplitude and stagnant rms(c) values, indicating divergence",,True,,1.4435861110687256,8,50,True
+vasp-data-files/111000010000110111111010/OSZICAR,1,50,0,"Clear oscillations in dE with increasing amplitude and stagnant rms(c) values, indicating divergence",,True,,1.2424142360687256,8,50,True
+vasp-data-files/101101000101011110111100/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.2336974143981934,8,50,True
+vasp-data-files/111100000101111100101000/OSZICAR,0,50,0,"Clear oscillations in dE with increasing amplitude and stagnant rms(c) values, indicating divergence",,True,,1.2453415393829346,8,50,True
+vasp-data-files/100001110010011010011111/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.64689040184021,8,50,True
+vasp-data-files/100001110000110000100010/OSZICAR,1,50,0,Clear oscillations in dE with increasing amplitude and stagnant rms(c) values indicating divergence,,True,,1.1378931999206543,8,50,True
+vasp-data-files/110101101100111101010011/OSZICAR,1,50,0,"Clear oscillations in dE with increasing amplitude and stagnant rms(c) values, indicating divergence",,True,,1.2374930381774902,8,50,True
+vasp-data-files/101001110010000111111111/OSZICAR,1,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.1406221389770508,8,50,True
+vasp-data-files/101011010111111010100100/OSZICAR,0,50,0,"Clear oscillations with increasing amplitude in rms(c) and no downward trend in dE, indicating divergence",,True,,1.2377493381500244,8,50,True
+vasp-data-files/111110000101110010010000/OSZICAR,0,50,0,"Clear oscillations with increasing amplitude in rms(c) and dE showing large fluctuations, indicating divergence",,True,,1.1565489768981934,8,50,True

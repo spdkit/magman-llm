@@ -1,0 +1,2 @@
+﻿total_samples,successful_samples,success_rate,accuracy,precision,recall,f1_score,true_negatives,false_positives,false_negatives,true_positives,avg_api_time,min_api_time,max_api_time,model,provider,n_steps,timestamp
+50,50,1.0,0.74,0.7941176470588235,0.8181818181818182,0.8059701492537313,10,7,6,27,33.61378796100617,3.6745405197143555,67.69237732887268,baidu/ERNIE-4.5-300B-A47B,siliconflow,50,2025-09-17 21:02:28

@@ -1,0 +1,51 @@
+﻿filepath,true_label,n_steps,prediction,reasoning,roc_probability,success,error,api_time,confidence_score,actual_steps,enough_steps
+vasp-data-files/101001010001001101100100/OSZICAR,1,50,1,"rms and rms(c) values are decreasing and approaching zero, indicating convergence.",,True,,3.3495519161224365,8,50,True
+vasp-data-files/111110000100010000011110/OSZICAR,1,50,1,"rms and rms(c) values are decreasing, indicating convergence.",,True,,1.3405795097351074,7,50,True
+vasp-data-files/100100001110011011011111/OSZICAR,1,50,1,"Energy changes and RMS values are decreasing, indicating convergence.",,True,,1.343135118484497,8,50,True
+vasp-data-files/111010110111111111000001/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.4449660778045654,8,50,True
+vasp-data-files/101101000101010011100011/OSZICAR,0,50,1,Energy fluctuations are decreasing and rms values are converging.,,True,,1.3246450424194336,7,50,True
+vasp-data-files/111101100101011011110110/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.253211259841919,8,50,True
+vasp-data-files/100010010010001011110101/OSZICAR,1,50,1,"Energy changes and RMS values are decreasing, indicating convergence.",,True,,1.3440427780151367,8,50,True
+vasp-data-files/110110100000011000100100/OSZICAR,1,50,1,"rms and rms(c) values are decreasing, indicating convergence.",,True,,1.3429958820343018,8,50,True
+vasp-data-files/110001111011001111111001/OSZICAR,1,50,1,Energy changes are decreasing and RMS values are converging.,,True,,1.1925649642944336,8,50,True
+vasp-data-files/100010101000001110011111/OSZICAR,1,50,1,"rms and rms(c) values are decreasing, indicating convergence.",,True,,1.115225076675415,8,50,True
+vasp-data-files/110000011100111100000000/OSZICAR,0,50,1,"Energy fluctuations decrease and rms values are small, indicating convergence.",,True,,1.307950496673584,7,50,True
+vasp-data-files/101011010101110010111110/OSZICAR,1,50,1,"Energy changes and RMS values are decreasing, indicating convergence.",,True,,1.1421048641204834,8,50,True
+vasp-data-files/101110111010110011001111/OSZICAR,0,50,1,"Energy changes are decreasing and RMS values are small, indicating convergence.",,True,,1.3392853736877441,8,50,True
+vasp-data-files/101100000000101101100000/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.339127779006958,8,50,True
+vasp-data-files/101101010101101011001000/OSZICAR,1,50,0,Energy oscillations and increasing rms values indicate potential divergence.,,True,,1.2391178607940674,6,50,True
+vasp-data-files/101111010100110000100100/OSZICAR,0,50,1,"rms and rms(c) values are decreasing, indicating convergence.",,True,,1.1399540901184082,7,50,True
+vasp-data-files/111111011101110001001010/OSZICAR,1,50,0,Energy oscillations and increasing trend in steps 40-50 suggest divergence.,,True,,1.3391094207763672,7,50,True
+vasp-data-files/111100110011000100101100/OSZICAR,0,50,1,"Energy changes and RMS values are decreasing, indicating convergence.",,True,,1.2388672828674316,8,50,True
+vasp-data-files/111101001101110110100010/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.4451773166656494,8,50,True
+vasp-data-files/111110000101010000100000/OSZICAR,0,50,1,"rms and rms(c) values are decreasing, indicating convergence.",,True,,1.3433282375335693,7,50,True
+vasp-data-files/101000010100011110000010/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.6435980796813965,7,50,True
+vasp-data-files/101110000000110110100000/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.3468098640441895,8,50,True
+vasp-data-files/111000011100111110100100/OSZICAR,1,50,1,"Energy changes and RMS values are decreasing, indicating convergence.",,True,,1.3426086902618408,7,50,True
+vasp-data-files/100100110010001101011001/OSZICAR,0,50,1,"Energy fluctuations decrease and rms values approach zero, indicating convergence.",,True,,1.3383018970489502,7,50,True
+vasp-data-files/100001111010000001010101/OSZICAR,0,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.3411600589752197,8,50,True
+vasp-data-files/111110000100111110100000/OSZICAR,1,50,1,"Energy changes are decreasing and RMS values are small, indicating convergence.",,True,,1.342433214187622,8,50,True
+vasp-data-files/100001010111110011101110/OSZICAR,0,50,1,"Energy changes and RMS values are decreasing, indicating convergence.",,True,,1.3446214199066162,7,50,True
+vasp-data-files/100000010110101010101001/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.3396801948547363,8,50,True
+vasp-data-files/101101001111110011100001/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.3395774364471436,8,50,True
+vasp-data-files/111100010101111011110101/OSZICAR,0,50,1,"Energy fluctuations are decreasing and rms values are getting smaller, indicating convergence.",,True,,1.6533074378967285,7,50,True
+vasp-data-files/101101010101111111101100/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.2366523742675781,8,50,True
+vasp-data-files/100011101110110010111111/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.3442959785461426,8,50,True
+vasp-data-files/101111000100111110100000/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.1634244918823242,8,50,True
+vasp-data-files/101011010100110010100100/OSZICAR,0,50,1,"Energy fluctuations decrease and rms values are small, indicating convergence.",,True,,1.1920726299285889,7,50,True
+vasp-data-files/110100001110001101011001/OSZICAR,0,50,1,"Energy fluctuations are decreasing and rms values are getting smaller, indicating convergence.",,True,,2.079404830932617,7,50,True
+vasp-data-files/100100111111011001010111/OSZICAR,0,50,1,"rms and rms(c) values are decreasing, indicating convergence.",,True,,1.2444956302642822,7,50,True
+vasp-data-files/100001011101111010001100/OSZICAR,0,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.4347119331359863,8,50,True
+vasp-data-files/101110010100111011000100/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.2747766971588135,8,50,True
+vasp-data-files/110100001101111100101000/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.262969970703125,7,50,True
+vasp-data-files/101110000000011100100000/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.2854619026184082,8,50,True
+vasp-data-files/111100000100111110100000/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.2417895793914795,8,50,True
+vasp-data-files/111000010000110111111010/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.337414264678955,8,50,True
+vasp-data-files/101101000101011110111100/OSZICAR,1,50,1,"Energy changes and RMS values are decreasing, indicating convergence.",,True,,1.2418594360351562,8,50,True
+vasp-data-files/111100000101111100101000/OSZICAR,0,50,1,Energy oscillations are decreasing and RMS values are converging.,,True,,1.4441800117492676,7,50,True
+vasp-data-files/100001110010011010011111/OSZICAR,1,50,1,"rms and rms(c) values are decreasing, indicating convergence.",,True,,1.3427298069000244,8,50,True
+vasp-data-files/100001110000110000100010/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.3393516540527344,8,50,True
+vasp-data-files/110101101100111101010011/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.3399381637573242,8,50,True
+vasp-data-files/101001110010000111111111/OSZICAR,1,50,1,"Energy change (dE) and RMS values are decreasing, indicating convergence.",,True,,1.343163251876831,7,50,True
+vasp-data-files/101011010111111010100100/OSZICAR,0,50,1,"Energy changes and RMS values are decreasing, indicating convergence.",,True,,1.2422161102294922,7,50,True
+vasp-data-files/111110000101110010010000/OSZICAR,0,50,1,"rms and rms(c) values are decreasing, indicating convergence.",,True,,1.1666710376739502,7,50,True

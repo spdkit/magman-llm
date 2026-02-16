@@ -1,0 +1,64 @@
+{
+  "summary": [
+    {
+      "Model": "Zero-shot Prompt",
+      "Accuracy": "0.7400",
+      "Precision": "0.7273",
+      "Recall": "0.9697",
+      "F1-Score": "0.8312",
+      "AUC": "0.6747",
+      "AP": "0.7583",
+      "Specificity": "0.2941",
+      "Balanced_Accuracy": "0.6319",
+      "Samples": 50
+    },
+    {
+      "Model": "Few-shot 1 Prompt",
+      "Accuracy": "0.7200",
+      "Precision": "1.0000",
+      "Recall": "0.5758",
+      "F1-Score": "0.7308",
+      "AUC": "0.8128",
+      "AP": "0.8674",
+      "Specificity": "1.0000",
+      "Balanced_Accuracy": "0.7879",
+      "Samples": 50
+    },
+    {
+      "Model": "Few-shot 2 Prompt",
+      "Accuracy": "0.8000",
+      "Precision": "0.7949",
+      "Recall": "0.9394",
+      "F1-Score": "0.8611",
+      "AUC": "0.9091",
+      "AP": "0.9333",
+      "Specificity": "0.5294",
+      "Balanced_Accuracy": "0.7344",
+      "Samples": 50
+    },
+    {
+      "Model": "Few-shot 3 Prompt",
+      "Accuracy": "0.7200",
+      "Precision": "0.7111",
+      "Recall": "0.9697",
+      "F1-Score": "0.8205",
+      "AUC": "0.9082",
+      "AP": "0.9324",
+      "Specificity": "0.2353",
+      "Balanced_Accuracy": "0.6025",
+      "Samples": 50
+    }
+  ],
+  "ap_scores": {
+    "Zero-shot Prompt": 0.7582920110192838,
+    "Few-shot 1 Prompt": 0.8674242424242423,
+    "Few-shot 2 Prompt": 0.9333124632663801,
+    "Few-shot 3 Prompt": 0.9324158249158249
+  },
+  "auc_scores": {
+    "Zero-shot Prompt": 0.6746880570409981,
+    "Few-shot 1 Prompt": 0.8128342245989305,
+    "Few-shot 2 Prompt": 0.9090909090909091,
+    "Few-shot 3 Prompt": 0.908199643493761
+  }
+}

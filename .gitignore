@@ -1,0 +1,46 @@
+# Python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environment
+.venv
+venv/
+env/
+
+# Environment variables and secrets
+.env
+*.env
+!.env.example
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.~lock*
+.DS_Store
+
+# VASP data files
+POSCAR*
+CONTCAR*
+OSZICAR*
+vasprun.xml*
+vasp-data-files/
+
+# Results and temporary files
+*.csv
+*.png
+*.json
+*.dat
+test-*/
+rule_based_*.csv
+rule_based_*_analysis/
+comparison_chart.png
+
+# Logs
+*.log

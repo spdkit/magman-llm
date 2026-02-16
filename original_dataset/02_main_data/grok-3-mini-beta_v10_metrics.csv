@@ -1,0 +1,2 @@
+﻿total_samples,successful_samples,success_rate,accuracy,precision,recall,f1_score,true_negatives,false_positives,false_negatives,true_positives,avg_api_time,min_api_time,max_api_time,model,provider,n_steps,timestamp
+50,50,1.0,0.7,0.6875,1.0,0.8148148148148148,2,15,0,33,24.507530841827393,14.221991539001465,63.683135747909546,x-ai/grok-3-mini-beta,openrouter,50,2025-10-24 14:05:01

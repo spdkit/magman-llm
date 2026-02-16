@@ -1,0 +1,51 @@
+﻿filepath,true_label,n_steps,prediction,reasoning,roc_probability,success,error,api_time,confidence_score,actual_steps,enough_steps
+vasp-data-files/101001010001001101100100/OSZICAR,1,50,1,"rms(c) shows a decreasing trend despite some oscillations in dE, indicating convergence",,True,,3.3810627460479736,7,50,True
+vasp-data-files/111110000100010000011110/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some noise and dE oscillations, indicating convergence",,True,,1.3451714515686035,7,50,True
+vasp-data-files/100100001110011011011111/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some noise and dE oscillations, indicating convergence",,True,,1.3960883617401123,7,50,True
+vasp-data-files/111010110111111111000001/OSZICAR,1,50,1,"Clear decreasing trend in dE and rms(c) values, with rms(c) values consistently decreasing towards convergence thresholds despite minor oscillations in dE.",,True,,1.5348269939422607,8,50,True
+vasp-data-files/101101000101010011100011/OSZICAR,0,50,0,rms(c) shows no clear decreasing trend and fluctuates around 1.7-1.8 indicating divergence,,True,,1.7011303901672363,7,50,True
+vasp-data-files/111101100101011011110110/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some noise and dE oscillations, indicating convergence",,True,,1.3426165580749512,7,50,True
+vasp-data-files/100010010010001011110101/OSZICAR,1,50,1,"Clear decreasing trend in dE and rms(c) values, approaching convergence thresholds despite minor oscillations in dE",,True,,1.3451528549194336,8,50,True
+vasp-data-files/110110100000011000100100/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend from high values to below 0.5E-01, despite some fluctuations in dE, indicating convergence",,True,,1.6480977535247803,7,50,True
+vasp-data-files/110001111011001111111001/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend from high values to below 0.5, despite some oscillations in dE, indicating convergence",,True,,1.3515856266021729,7,50,True
+vasp-data-files/100010101000001110011111/OSZICAR,1,50,1,rms(c) shows a clear decreasing trend towards convergence despite minor oscillations in dE,,True,,1.3307476043701172,7,50,True
+vasp-data-files/110000011100111100000000/OSZICAR,0,50,0,rms(c) shows no clear decreasing trend and fluctuates around high values indicating divergence,,True,,1.3437869548797607,7,50,True
+vasp-data-files/101011010101110010111110/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some noise and dE oscillations, indicating convergence",,True,,1.2407031059265137,7,50,True
+vasp-data-files/101110111010110011001111/OSZICAR,0,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.137139081954956,7,50,True
+vasp-data-files/101100000000101101100000/OSZICAR,1,50,1,"Clear decreasing trend in rms(c) values with small oscillations in dE, indicating convergence",,True,,1.2358591556549072,8,50,True
+vasp-data-files/101101010101101011001000/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.1407451629638672,7,50,True
+vasp-data-files/101111010100110000100100/OSZICAR,0,50,1,"rms(c) shows a decreasing trend despite large dE oscillations, indicating convergence",,True,,1.1364250183105469,7,50,True
+vasp-data-files/111111011101110001001010/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.2369568347930908,7,50,True
+vasp-data-files/111100110011000100101100/OSZICAR,0,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.1406164169311523,7,50,True
+vasp-data-files/111101001101110110100010/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend from high values to below 0.3, despite some fluctuations in dE",,True,,1.8487777709960938,7,50,True
+vasp-data-files/111110000101010000100000/OSZICAR,0,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.0911848545074463,7,50,True
+vasp-data-files/101000010100011110000010/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some noise and dE oscillations, indicating convergence",,True,,1.2849438190460205,7,50,True
+vasp-data-files/101110000000110110100000/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend from high values to below 0.1, despite some fluctuations in dE, indicating convergence",,True,,1.3440065383911133,7,50,True
+vasp-data-files/111000011100111110100100/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.3430583477020264,7,50,True
+vasp-data-files/100100110010001101011001/OSZICAR,0,50,1,"rms(c) shows a clear decreasing trend from high values to around 0.1, despite some oscillations in dE, indicating convergence",,True,,1.9536199569702148,7,50,True
+vasp-data-files/100001111010000001010101/OSZICAR,0,50,1,"rms(c) shows a clear decreasing trend from high values to below 0.3, indicating convergence despite some oscillations in dE",,True,,1.34454345703125,8,50,True
+vasp-data-files/111110000100111110100000/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.235175371170044,7,50,True
+vasp-data-files/100001010111110011101110/OSZICAR,0,50,1,"rms(c) shows a decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.4445290565490723,6,50,True
+vasp-data-files/100000010110101010101001/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite minor oscillations in dE, indicating convergence",,True,,1.345027208328247,7,50,True
+vasp-data-files/101101001111110011100001/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend from high values to below 0.3E-02, despite some oscillations in dE, indicating convergence",,True,,1.649259328842163,7,50,True
+vasp-data-files/111100010101111011110101/OSZICAR,0,50,1,"dE shows large oscillations but rms(c) shows a decreasing trend from step 12 to 50, indicating eventual convergence",,True,,1.3411579132080078,6,50,True
+vasp-data-files/101101010101111111101100/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some noise and dE oscillations, indicating convergence",,True,,1.339005947113037,7,50,True
+vasp-data-files/100011101110110010111111/OSZICAR,1,50,1,rms(c) shows a clear decreasing trend towards convergence despite some noise and small oscillations in dE,,True,,1.2422022819519043,7,50,True
+vasp-data-files/101111000100111110100000/OSZICAR,1,50,1,rms(c) shows a clear decreasing trend towards convergence despite minor oscillations in dE,,True,,1.4435880184173584,7,50,True
+vasp-data-files/101011010100110010100100/OSZICAR,0,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.3378286361694336,7,50,True
+vasp-data-files/110100001110001101011001/OSZICAR,0,50,1,"rms(c) shows a clear decreasing trend despite some fluctuations in dE, indicating convergence",,True,,1.2020511627197266,7,50,True
+vasp-data-files/100100111111011001010111/OSZICAR,0,50,1,"rms(c) shows a decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.1767420768737793,6,50,True
+vasp-data-files/100001011101111010001100/OSZICAR,0,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.2391865253448486,7,50,True
+vasp-data-files/101110010100111011000100/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.1425867080688477,7,50,True
+vasp-data-files/110100001101111100101000/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.3352553844451904,7,50,True
+vasp-data-files/101110000000011100100000/OSZICAR,1,50,1,"Clear decreasing trend in dE and rms(c) values, with rms(c) values consistently decreasing towards convergence thresholds despite minor fluctuations.",,True,,1.3445701599121094,8,50,True
+vasp-data-files/111100000100111110100000/OSZICAR,1,50,1,"Clear decreasing trend in both dE and rms(c) values, with rms(c) values approaching convergence thresholds despite minor oscillations in dE.",,True,,1.4776499271392822,8,50,True
+vasp-data-files/111000010000110111111010/OSZICAR,1,50,1,rms(c) shows a clear decreasing trend towards convergence despite some noise and small oscillations in dE,,True,,1.5138070583343506,7,50,True
+vasp-data-files/101101000101011110111100/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some noise and dE oscillations, indicating convergence",,True,,1.3380367755889893,7,50,True
+vasp-data-files/111100000101111100101000/OSZICAR,0,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.344578504562378,7,50,True
+vasp-data-files/100001110010011010011111/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some noise and dE oscillations, indicating convergence",,True,,1.3386156558990479,7,50,True
+vasp-data-files/100001110000110000100010/OSZICAR,1,50,1,"Clear decreasing trend in dE and rms(c) values, approaching convergence thresholds despite minor fluctuations",,True,,1.340834617614746,8,50,True
+vasp-data-files/110101101100111101010011/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend despite some noise and dE oscillations, indicating convergence",,True,,1.3453872203826904,7,50,True
+vasp-data-files/101001110010000111111111/OSZICAR,1,50,1,"rms(c) shows a clear decreasing trend from high values to below 0.2, despite some oscillations in dE, indicating convergence",,True,,1.3446071147918701,7,50,True
+vasp-data-files/101011010111111010100100/OSZICAR,0,50,1,"rms(c) shows a decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.3365108966827393,6,50,True
+vasp-data-files/111110000101110010010000/OSZICAR,0,50,1,"rms(c) shows a clear decreasing trend despite some oscillations in dE, indicating convergence",,True,,1.121669054031372,7,50,True
