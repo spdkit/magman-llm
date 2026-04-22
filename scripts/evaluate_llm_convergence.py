@@ -767,7 +767,7 @@ Output only this single line, no additional text."""
         if successful_results:
             try:
                 from sklearn.metrics import roc_auc_score
-                from src.roc_utils import get_roc_probabilities
+                from roc_utils import get_roc_probabilities
 
                 # Convert to DataFrame to use unified tool
                 results_df = pd.DataFrame(successful_results)
