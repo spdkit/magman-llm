@@ -1,0 +1,4 @@
+system,task_type,zero_shot_auc,fs1_auc,fs2_auc,adapted_auc,delta_zero_shot_to_fs2,source_runs
+Fe3O4,200-step convergence,0.6746880570409983,0.8128342245989305,0.9090909090909091,,0.23440285204991074,fe3o4_preview_zero_shot;fe3o4_preview_fs1;fe3o4_preview_fs2
+gamma-Fe2O3,200-step convergence,0.5285714285714286,,0.8152380952380952,,0.2866666666666666,gamma_fe2o3_zero_shot_run2;gamma_fe2o3_fs2
+Mn2O3,100-step reach,0.5,,0.7112299465240641,0.8529411764705882,0.21122994652406413,mn2o3_deepseek_zero_shot;mn2o3_deepseek_fs2;mn2o3_deepseek_indicator_augmented
